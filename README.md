@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **asoyewole@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/0B3VkY5dX0XLoQTd3UUJ3Rkh1S3hFejBGRFhyc0ZMOW5hemo4/edit?usp=sharing&ouid=103358262157793883298&resourcekey=0-mgTXkozwAEBUHJ5VdZUp0g&rtpof=true&sd=true](https://docs.google.com/document/d/0B3VkY5dX0XLoQTd3UUJ3Rkh1S3hFejBGRFhyc0ZMOW5hemo4/edit?usp=sharing&ouid=103358262157793883298&resourcekey=0-mgTXkozwAEBUHJ5VdZUp0g&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://tinyurl.com/asoyewoleresume](https://tinyurl.com/asoyewoleresume)
 
 
 ### Blogs posts
