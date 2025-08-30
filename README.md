@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayo Oyewole</h1>
-<h3 align="center">A data practitioner from Canada.</h3>
+<h3 align="center">I'm a passionate data scientist with expertise in machine learning, big data processing, and ethical AI. My projects focus on building scalable, fairness-aware systems, like my cost-aware movie recommendation system using Spark and TensorFlow. I thrive on turning complex datasets into actionable insights, with a strong foundation in Python, statistical analysis, and visualization. Always eager to tackle real-world challenges and contribute to innovative solutions. Connect with me to collaborate on impactful data-driven projects!
+
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asoyewole&label=Profile%20views&color=0e75b6&style=flat" alt="asoyewole" /> </p>
 
