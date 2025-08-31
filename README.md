@@ -18,6 +18,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Cost-Aware Movie Recommendation System: Blending Budgets, Data Science, and Fairness](https://medium.com/@asoyewole/building-a-cost-aware-movie-recommendation-system-blending-budgets-data-science-and-fairness-fc049e5cdcdd?source=rss-fa3daa9c77dd------2)
+- [Skeegap — An App for Resume vs Job Description Comparison](https://medium.com/@asoyewole/skeegap-an-app-for-resume-vs-job-description-comparison-65ba657acd37?source=rss-fa3daa9c77dd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
